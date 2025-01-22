@@ -1,0 +1,8 @@
+<loadFolders>
+
+	<v1.5>
+		<li>/</li>
+		<li>1.5</li>
+		<li IfModActive="ReGrowth.BOTR.Core">LoadFolders/ReGrowth-Core</li>
+	</v1.5>
+</loadFolders>
