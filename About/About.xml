@@ -9,7 +9,7 @@
 	<packageId>ReTextured.HD</packageId>
 	<url/>
 	<modVersion IgnoreIfNoMatchingField="True">1.0-Oskar-rev1</modVersion>
-	<description>text.todo</description>
+	<description>A collection of HD textures for all my mods, optional for people with beefy hardware who use Camera+ or have big 4K (or even 8K) screens like me. </description>
 	<loadAfter>
 		<li>VanillaExpanded.VTEXE</li>
 		<li>ReBuild.COTR.DoorsAndCorners</li>
