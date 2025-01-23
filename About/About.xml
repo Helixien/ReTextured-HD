@@ -12,7 +12,6 @@
 	<description>text.todo</description>
 	<loadAfter>
 		<li>VanillaExpanded.VTEXE</li>
-		<li>ReGrowth.BOTR.Core</li>
-		<li>ReGrowth.BOTR.ReTextures</li>
+		<li>ReBuild.COTR.DoorsAndCorners</li>
 	</loadAfter>
 </ModMetaData>
